@@ -1,0 +1,6 @@
+{
+  "strategy": "fully_random",
+  "test_fraction": 0.2,
+  "test_count": 26412,
+  "training_count": 105160
+}

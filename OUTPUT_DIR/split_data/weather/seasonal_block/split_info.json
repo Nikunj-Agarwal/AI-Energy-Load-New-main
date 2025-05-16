@@ -1,0 +1,29 @@
+{
+  "strategy": "seasonal_block",
+  "test_seasons": {
+    "2021": {
+      "Winter": 1656,
+      "Spring": 1702,
+      "Summer": 1624,
+      "Fall": 1644
+    },
+    "2022": {
+      "Winter": 1587,
+      "Spring": 1657,
+      "Summer": 1622,
+      "Fall": 1667
+    },
+    "2023": {
+      "Winter": 1674,
+      "Spring": 1741,
+      "Summer": 1717,
+      "Fall": 1714
+    },
+    "2024": {
+      "Winter": 1272,
+      "Spring": 1661,
+      "Summer": 1707,
+      "Fall": 1663
+    }
+  }
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "split": 1,
+    "train_range": [
+      0,
+      105257
+    ],
+    "val_range": [
+      105257,
+      107888
+    ],
+    "rmse": 1503.606360575274,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_1.h5"
+  },
+  {
+    "split": 2,
+    "train_range": [
+      0,
+      107888
+    ],
+    "val_range": [
+      107888,
+      110519
+    ],
+    "rmse": 1922.2449184192021,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_2.h5"
+  },
+  {
+    "split": 3,
+    "train_range": [
+      0,
+      110519
+    ],
+    "val_range": [
+      110519,
+      113150
+    ],
+    "rmse": 1905.6326227330471,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_3.h5"
+  },
+  {
+    "split": 4,
+    "train_range": [
+      0,
+      113150
+    ],
+    "val_range": [
+      113150,
+      115781
+    ],
+    "rmse": 1822.737338965391,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_4.h5"
+  },
+  {
+    "split": 5,
+    "train_range": [
+      0,
+      115781
+    ],
+    "val_range": [
+      115781,
+      118412
+    ],
+    "rmse": 1760.4871253268675,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_5.h5"
+  },
+  {
+    "split": 6,
+    "train_range": [
+      0,
+      118412
+    ],
+    "val_range": [
+      118412,
+      121043
+    ],
+    "rmse": 1706.7429182982667,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_6.h5"
+  },
+  {
+    "split": 7,
+    "train_range": [
+      0,
+      121043
+    ],
+    "val_range": [
+      121043,
+      123674
+    ],
+    "rmse": 1924.3822784519389,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_7.h5"
+  },
+  {
+    "split": 8,
+    "train_range": [
+      0,
+      123674
+    ],
+    "val_range": [
+      123674,
+      126305
+    ],
+    "rmse": 1496.859269070187,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_8.h5"
+  },
+  {
+    "split": 9,
+    "train_range": [
+      0,
+      126305
+    ],
+    "val_range": [
+      126305,
+      128936
+    ],
+    "rmse": 1398.534335038988,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_9.h5"
+  },
+  {
+    "split": 10,
+    "train_range": [
+      0,
+      128936
+    ],
+    "val_range": [
+      128936,
+      131567
+    ],
+    "rmse": 1287.1304755088615,
+    "model_path": "OUTPUT_DIR/lstm_walk_forward/lstm_split_10.h5"
+  }
+]

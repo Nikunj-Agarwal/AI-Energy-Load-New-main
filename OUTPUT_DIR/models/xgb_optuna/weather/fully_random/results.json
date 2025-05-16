@@ -1,0 +1,17 @@
+{
+  "data_type": "weather",
+  "strategy": "fully_random",
+  "rmse": 1284.595711882217,
+  "mae": 604.7816410820011,
+  "r2": 0.89250506448395,
+  "best_params": {
+    "n_estimators": 437,
+    "max_depth": 12,
+    "learning_rate": 0.18261552059042202,
+    "subsample": 0.8986543241755539,
+    "colsample_bytree": 0.9339250215569584,
+    "gamma": 2.90649235705565,
+    "reg_alpha": 3.6641631906127707,
+    "reg_lambda": 3.215646720156771
+  }
+}

@@ -1,0 +1,197 @@
+Processing started at 2025-05-03 04:05:57.003327
+Running in CPU-only mode
+
+Processing batch file 1/16: delhi_gkg_data_20221230_to_20230330.csv
+  File size: 1896.04 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.37s (2235.1 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.78s (2195.0 rows/sec)
+  Processing chunk 3 (42948 rows)
+    Processed 42948 rows (input: 42948) in 19.28s (2227.1 rows/sec)
+  Completed file delhi_gkg_data_20221230_to_20230330.csv: Processed 142948 rows in 3 chunks
+Progress: 6.2% (1/16 files)
+
+Processing batch file 2/16: delhi_gkg_data_20210101_to_20210401.csv
+  File size: 2238.48 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.98s (2175.4 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.28s (2059.6 rows/sec)
+  Processing chunk 3 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.19s (2155.9 rows/sec)
+  Processing chunk 4 (22997 rows)
+    Processed 22997 rows (input: 22997) in 10.66s (2158.3 rows/sec)
+  Completed file delhi_gkg_data_20210101_to_20210401.csv: Processed 172997 rows in 4 chunks
+Progress: 12.5% (2/16 files)
+
+Processing batch file 3/16: delhi_gkg_data_20240628_to_20240926.csv
+  File size: 1837.53 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.57s (2121.5 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.38s (2050.9 rows/sec)
+  Processing chunk 3 (39161 rows)
+    Processed 39161 rows (input: 39161) in 18.08s (2166.1 rows/sec)
+  Completed file delhi_gkg_data_20240628_to_20240926.csv: Processed 139161 rows in 3 chunks
+Progress: 18.8% (3/16 files)
+
+Processing batch file 4/16: delhi_gkg_data_20211231_to_20220331.csv
+  File size: 1828.09 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.93s (2180.9 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 26.19s (1909.1 rows/sec)
+  Processing chunk 3 (30633 rows)
+    Processed 30633 rows (input: 30633) in 14.23s (2152.7 rows/sec)
+  Completed file delhi_gkg_data_20211231_to_20220331.csv: Processed 130633 rows in 3 chunks
+Progress: 25.0% (4/16 files)
+
+Processing batch file 5/16: delhi_gkg_data_20231229_to_20240328.csv
+  File size: 2086.05 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.37s (2139.4 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.75s (2019.8 rows/sec)
+  Processing chunk 3 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.48s (2129.6 rows/sec)
+  Processing chunk 4 (3749 rows)
+    Processed 3749 rows (input: 3749) in 1.75s (2143.4 rows/sec)
+  Completed file delhi_gkg_data_20231229_to_20240328.csv: Processed 153749 rows in 4 chunks
+Progress: 31.2% (5/16 files)
+
+Processing batch file 6/16: delhi_gkg_data_20230929_to_20231228.csv
+  File size: 2424.51 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.48s (2129.3 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 26.18s (1909.8 rows/sec)
+  Processing chunk 3 (50000 rows)
+    Processed 50000 rows (input: 50000) in 28.92s (1728.6 rows/sec)
+  Processing chunk 4 (30919 rows)
+    Processed 30919 rows (input: 30919) in 16.76s (1844.4 rows/sec)
+  Completed file delhi_gkg_data_20230929_to_20231228.csv: Processed 180919 rows in 4 chunks
+Progress: 37.5% (6/16 files)
+
+Processing batch file 7/16: delhi_gkg_data_20210702_to_20210930.csv
+  File size: 1671.10 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 25.42s (1966.7 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.69s (2025.0 rows/sec)
+  Processing chunk 3 (24108 rows)
+    Processed 24108 rows (input: 24108) in 11.48s (2099.6 rows/sec)
+  Completed file delhi_gkg_data_20210702_to_20210930.csv: Processed 124108 rows in 3 chunks
+Progress: 43.8% (7/16 files)
+
+Processing batch file 8/16: delhi_gkg_data_20230331_to_20230629.csv
+  File size: 2758.97 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.40s (2137.0 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.76s (2104.0 rows/sec)
+  Processing chunk 3 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.92s (2181.4 rows/sec)
+  Processing chunk 4 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.62s (2031.0 rows/sec)
+  Processing chunk 5 (5564 rows)
+    Processed 5564 rows (input: 5564) in 2.55s (2180.7 rows/sec)
+  Completed file delhi_gkg_data_20230331_to_20230629.csv: Processed 205564 rows in 5 chunks
+Progress: 50.0% (8/16 files)
+
+Processing batch file 9/16: delhi_gkg_data_20220401_to_20220630.csv
+  File size: 1579.04 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.58s (2034.2 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.92s (2006.7 rows/sec)
+  Processing chunk 3 (17502 rows)
+    Processed 17502 rows (input: 17502) in 8.82s (1985.1 rows/sec)
+  Completed file delhi_gkg_data_20220401_to_20220630.csv: Processed 117502 rows in 3 chunks
+Progress: 56.2% (9/16 files)
+
+Processing batch file 10/16: delhi_gkg_data_20240927_to_20241212.csv
+  File size: 1510.05 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.58s (2034.3 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 26.49s (1887.4 rows/sec)
+  Processing chunk 3 (13187 rows)
+    Processed 13187 rows (input: 13187) in 6.34s (2079.8 rows/sec)
+  Completed file delhi_gkg_data_20240927_to_20241212.csv: Processed 113187 rows in 3 chunks
+Progress: 62.5% (10/16 files)
+
+Processing batch file 11/16: delhi_gkg_data_20220930_to_20221229.csv
+  File size: 1559.91 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.24s (2062.7 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.71s (2201.6 rows/sec)
+  Processing chunk 3 (20399 rows)
+    Processed 20399 rows (input: 20399) in 9.41s (2167.2 rows/sec)
+  Completed file delhi_gkg_data_20220930_to_20221229.csv: Processed 120399 rows in 3 chunks
+Progress: 68.8% (11/16 files)
+
+Processing batch file 12/16: delhi_gkg_data_20220701_to_20220929.csv
+  File size: 1595.60 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.30s (2241.8 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.74s (2198.9 rows/sec)
+  Processing chunk 3 (22788 rows)
+    Processed 22788 rows (input: 22788) in 10.54s (2161.2 rows/sec)
+  Completed file delhi_gkg_data_20220701_to_20220929.csv: Processed 122788 rows in 3 chunks
+Progress: 75.0% (12/16 files)
+
+Processing batch file 13/16: delhi_gkg_data_20240329_to_20240627.csv
+  File size: 1910.88 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.13s (2161.8 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 22.86s (2187.2 rows/sec)
+  Processing chunk 3 (44051 rows)
+    Processed 44051 rows (input: 44051) in 20.70s (2128.2 rows/sec)
+  Completed file delhi_gkg_data_20240329_to_20240627.csv: Processed 144051 rows in 3 chunks
+Progress: 81.2% (13/16 files)
+
+Processing batch file 14/16: delhi_gkg_data_20211001_to_20211230.csv
+  File size: 1717.62 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.41s (2135.4 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.07s (2077.5 rows/sec)
+  Processing chunk 3 (30257 rows)
+    Processed 30257 rows (input: 30257) in 13.91s (2175.9 rows/sec)
+  Completed file delhi_gkg_data_20211001_to_20211230.csv: Processed 130257 rows in 3 chunks
+Progress: 87.5% (14/16 files)
+
+Processing batch file 15/16: delhi_gkg_data_20210402_to_20210701.csv
+  File size: 2242.80 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 25.77s (1940.2 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 27.08s (1846.5 rows/sec)
+  Processing chunk 3 (50000 rows)
+    Processed 50000 rows (input: 50000) in 24.05s (2079.3 rows/sec)
+  Processing chunk 4 (7902 rows)
+    Processed 7902 rows (input: 7902) in 3.82s (2068.0 rows/sec)
+  Completed file delhi_gkg_data_20210402_to_20210701.csv: Processed 157902 rows in 4 chunks
+Progress: 93.8% (15/16 files)
+
+Processing batch file 16/16: delhi_gkg_data_20230630_to_20230928.csv
+  File size: 2932.73 MB
+  Processing chunk 1 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.07s (2167.5 rows/sec)
+  Processing chunk 2 (50000 rows)
+    Processed 50000 rows (input: 50000) in 23.53s (2125.0 rows/sec)
+  Processing chunk 3 (50000 rows)
+    Processed 50000 rows (input: 50000) in 25.55s (1957.2 rows/sec)
+  Processing chunk 4 (50000 rows)
+    Processed 50000 rows (input: 50000) in 25.89s (1931.3 rows/sec)
+  Processing chunk 5 (15338 rows)
+    Processed 15338 rows (input: 15338) in 7.74s (1980.9 rows/sec)
+  Completed file delhi_gkg_data_20230630_to_20230928.csv: Processed 215338 rows in 5 chunks
+Progress: 100.0% (16/16 files)
+
+Processing complete at 2025-05-03 04:27:34.373342
+Total processed: 2371503 rows from 16 files
